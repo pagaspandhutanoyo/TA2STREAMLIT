@@ -17,7 +17,7 @@ from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
 
 # Load data
-data = pd.read_csv('Data-hasil-stemming.csv')
+data = pd.read_csv('Data-hasil-stemming-revisi.csv')
 
 # membuat slidebar
 st.subheader("ANALISIS SENTIMEN PENILAIAN MASYARAKAT")
